@@ -1,2 +1,2 @@
 # Linux
-Projekte und Tools rund um Linux, speziell optimiert für Fedora und Debian Linux, um Systemperformance und -sicherheit zu verbessern.
+## Projects and tools dedicated to Linux, specifically optimized for Fedora and Debian systems, aimed at enhancing system performance and security.
